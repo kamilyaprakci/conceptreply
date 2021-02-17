@@ -4,7 +4,7 @@ package conceptreply;
  *
  * @author kyaprakci
  */
-public class ConceptReply {
+public class ConceptReplyDriver {
 
     /**
      * @param args the command line arguments
